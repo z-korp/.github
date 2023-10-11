@@ -1,8 +1,8 @@
+<img align='right' src="resources/logo.png" height="100">
+
 <div align="center">
 
 # zKorp
-
-<img src="resources/logo.png" height="100">
 
 **zKorp** is a cooperative that aims to create Games and dApps on Starknet.
 
@@ -25,3 +25,5 @@ Here is the list of the projects we buidl:
 | `zKnight` | An Into-The-Breach-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zknight-contracts) |
 | `zRisk`   | A risk-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zrisk-contracts) |
 | `zLick`   | A dApp for DCA using Ekubo protocol | [link](https://github.com/z-korp/zmoothie-contracts) |
+
+</div>
