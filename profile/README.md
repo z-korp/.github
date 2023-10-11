@@ -1,4 +1,6 @@
-<img align='right' src="resources/logo.png" height="100">
+<div>
+    <img align='right' src="resources/logo.png" height="100">
+</div>
 
 <div align="center">
 
