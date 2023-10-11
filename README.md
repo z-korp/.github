@@ -1,2 +1,3 @@
-# .github
-Organization profile
+# Description
+
+Organization repository.
