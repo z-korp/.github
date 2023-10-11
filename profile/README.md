@@ -2,7 +2,7 @@
 
 # zKorp
 
-<img src="resources/logo.png" >
+<img src="resources/logo.png" height="100">
 
 **zKorp** is a cooperative that aims to create Games and dApps on Starknet.
 
