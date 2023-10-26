@@ -21,7 +21,7 @@ Here is the list of the projects we buidl:
 | Project   | Description                     | Repository                                     |
 | --------- | ------------------------------- | ---------------------------------------------- |
 | `zKnight` | An Into-The-Breach-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zknight-contracts) |
-| `zRisk`   | A risk-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zrisk-contracts) |
+| `zConqueror`   | A risk-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zrisk-contracts) |
 | `zLick`   | A dApp for DCA using Ekubo protocol | [link](https://github.com/z-korp/zmoothie-contracts) |
 
 </div>
