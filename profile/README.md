@@ -12,6 +12,8 @@ All our projects are fully open-sourced.
 
 ## 🏆 Achievements 🏅
 
+📅 04/2024 🥇 1st of the Dojo Game Jam fourth edition 🏷️ [zKlash](https://zklash-seven.vercel.app/)
+
 📅 11/2023 🥇 1st of the Dojo Game Jam second edition 🏷️ [zDefender](https://zdefender-front-cartridge.vercel.app/)
 
 📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://app.zknight.xyz/)
