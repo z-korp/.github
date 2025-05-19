@@ -12,7 +12,9 @@ All our projects are fully open-sourced.
 
 ## 🏆 Achievements 🏅
 
-📅 07/2024 ETHGlobal - 🏆 StarkHack Finalist 🏷️ zKastle
+📅 01/2025 SW x RW AI Agent hackathon - 🏆 3rd 🏷️ [zIdle AI agent](https://github.com/z-korp/daydreams/tree/zkorp)
+
+📅 07/2024 ETHGlobal - 🏆 StarkHack Finalist 🏷️ [zKastle](https://github.com/z-korp/zkastle)
 
 📅 04/2024 🥇 1st of the Dojo Game Jam fourth edition 🏷️ [zKlash](https://zklash-seven.vercel.app/)
 
@@ -33,5 +35,5 @@ Here is the list of the projects we buidl:
 | `zKube`   | A casual mobile friendply puzzle game | [link](https://github.com/z-korp/zkube) |
 | `zKastle`   | A card game | [link](https://github.com/z-korp/zkastle) |
 | `zKlash`   | An autobattler implemented using unity| [link](https://github.com/z-korp/zklash) |
-
+| `Wardens`   | A mobile onchain puzzle game | [link](https://wardens.gg/) |
 </div>
