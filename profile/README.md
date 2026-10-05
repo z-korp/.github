@@ -1,39 +1,51 @@
-<div align="center">
-
 # zKorp
 
-**zKorp** is a cooperative that aims to create Games and dApps on Starknet.
+**Product engineering · Web3 · AI**
 
-We welcome project idea, feel free to submit yours [here](https://github.com/orgs/z-korp/discussions/new?category=ideas).
+We’re a team of senior engineers helping businesses and technology teams design, build, and ship software.
 
-The global pipeline of projects and idea can be checked [here](https://github.com/orgs/z-korp/projects).
+We work alongside your engineers or take a project from scoping to production and maintenance.
 
-All our projects are fully open-sourced.
+## What we do
 
-## 🏆 Achievements 🏅
+### Product engineering
+Web and mobile applications, business software, and interactive experiences. We bring together architecture, interface development, and backend engineering to deliver complete products.
 
-📅 01/2025 SW x RW AI Agent hackathon - 🏆 3rd 🏷️ [zIdle AI agent](https://github.com/z-korp/daydreams/tree/zkorp)
+### Web3
+Smart contracts, confidential applications, and on-chain games. We build the contracts, interfaces, and integrations that make blockchain applications usable.
 
-📅 07/2024 ETHGlobal - 🏆 StarkHack Finalist 🏷️ [zKastle](https://github.com/z-korp/zkastle)
+### AI
+AI assistants, voice workflows, and automation connected to your tools and data. We integrate AI into products and everyday operations.
 
-📅 04/2024 🥇 1st of the Dojo Game Jam fourth edition 🏷️ [zKlash](https://zklash-seven.vercel.app/)
+## Selected work
 
-📅 11/2023 🥇 1st of the Dojo Game Jam second edition 🏷️ [zDefender](https://zdefender-front-cartridge.vercel.app/)
+- **Calepin · Product & AI**
+  A voice-first application that turns spoken notes into structured business records, available on mobile and desktop.
 
-📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://app.zknight.xyz/)
+- **Zama applications · Product & Web3**
+  Applications built on Zama’s fhEVM, bringing confidential transactions and encrypted tokens to interactive user experiences.
 
-## ⚒️ Projects 🧩
+- **[zKube](https://github.com/z-korp/zkube) · Product & Web3**
+  An on-chain puzzle game built on Starknet with the Dojo engine.
 
-Here is the list of the projects we buidl:
+Our work also includes **Hydra**, a streaming platform where AI agents play on-chain games, trade, and comment live.
 
-| Project   | Description                     | Repository                                     |
-| --------- | ------------------------------- | ---------------------------------------------- |
-| `zDefender` | Q Tower Defense game based on Dojo engine | [link](https://github.com/z-korp/zdefender-contracts) |
-| `zKnight` | An Into-The-Breach-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zknight-contracts) |
-| `zConqueror`   | A risk-like on-chain game based on Dojo engine | [link](https://github.com/z-korp/zrisk-contracts) |
-| `zIdle`   | An Idle game playable with ai agents | [link](https://github.com/z-korp/zidle) |
-| `zKube`   | A casual mobile friendply puzzle game | [link](https://github.com/z-korp/zkube) |
-| `zKastle`   | A card game | [link](https://github.com/z-korp/zkastle) |
-| `zKlash`   | An autobattler implemented using unity| [link](https://github.com/z-korp/zklash) |
-| `Wardens`   | A mobile onchain puzzle game | [link](https://wardens.gg/) |
-</div>
+[Explore our work →](https://zkorp.xyz/)
+
+## Open source
+
+We share tools, applications, and experiments for other developers to explore and build on.
+
+- **[FHEVM Cookbook](https://github.com/z-korp/fhevm-cookbook)** — Skills, snippets, and practical patterns for building confidential smart contracts on Zama.
+- **[VoxScribe](https://github.com/z-korp/voxscribe)** — A desktop application for recording meetings and transcribing audio locally.
+- **[zKube](https://github.com/z-korp/zkube)** — The code behind our on-chain puzzle game.
+
+## Origins & recognition
+
+Our roots are in on-chain gaming. Our projects won three Dojo Game Jams, and zKastle was a StarkHack finalist in 2024. That experience continues to shape how we prototype, experiment, and build.
+
+## Work with us
+
+Looking for a senior engineer to strengthen your team, or a team to deliver your next project?
+
+[Visit our website](https://zkorp.xyz/) · [Get in touch](mailto:thomas@zkorp.xyz)
